@@ -1,7 +1,7 @@
 @echo off
 
-if exist userprofile.zip del userprofile.zip
+if exist xx.zip del xx.zip
 
-WINRAR a -r userprofile.zip *.job *.sh *.properties
+WINRAR a -r xx.zip *.job *.sh *.properties
 
 exit

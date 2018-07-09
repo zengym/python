@@ -1,6 +1,6 @@
 #!/bin/bash
 
-cd /home/foura/python/userprofile
+cd /project/path/
 source venv/bin/activate
 
 python $1 $2
