@@ -1,4 +1,4 @@
-pythonµÄÒ»Ð©×Ô¶¯»¯½Å±¾£º
-1. auto_4a_login.py ×Ô¶¯µÇÂ¼ÏµÍ³£¬²¢½øÐÐ×ÊÔ´µ¥µãµÇÂ¼, Ê¹ÓÃselenium½øÐÐ¿ØÖÆ
-2. auto_cmcc.py, ×Ô¶¯µÇÂ¼ÒÆ¶¯µÄcmcc-webÍøÂç
-3. auto_rz.py£¬ ×Ô¶¯¼ÇÂ¼teamviewerµÄÈÏÖ¤Âë£¬ ²¢·¢ËÍqq
+pythonçš„ä¸€äº›è‡ªåŠ¨åŒ–è„šæœ¬ï¼š
+1. auto_login.py è‡ªåŠ¨ç™»å½•ç³»ç»Ÿ, ä½¿ç”¨seleniumè¿›è¡ŒæŽ§åˆ¶
+2. auto_cmcc.py, è‡ªåŠ¨ç™»å½•ç½‘ç»œ
+3. auto_rz.pyï¼Œ è‡ªåŠ¨è®°å½•teamviewerçš„è®¤è¯ç ï¼Œ å¹¶å‘é€qq
